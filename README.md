@@ -48,9 +48,15 @@ We then do further analysis with this information which can be seen in the jupyt
     
 ## Project Sources and Licenses
 [Politicians by Nationality Wikipedia Page](https://en.wikipedia.org/wiki/Category:Politicians_by_nationality)
-[World Population Data Sheet] (https://www.prb.org/international/indicator/population/table)
-[ORES] (https://www.mediawiki.org/wiki/ORES)
-[Wikipedia Content Assessment] (https://en.wikipedia.org/wiki/Wikipedia:Content_assessment)
-[Wikipedia Info API] (https://en.wikipedia.org/wiki/Wikipedia:Content_assessment)
-[Page Info Request Example] (https://drive.google.com/file/d/1Z8DqXpHmNUJ3RD7e-OOwx2WYJPIYjUPp/view?usp=sharing)
-[ORES Request Example] (https://drive.google.com/file/d/1rZdBrtCe9XO4IkDWqm0A2RA-HfZCsqHh/view?usp=sharing)
+
+[World Population Data Sheet](https://www.prb.org/international/indicator/population/table)
+
+[ORES](https://www.mediawiki.org/wiki/ORES)
+
+[Wikipedia Content Assessment](https://en.wikipedia.org/wiki/Wikipedia:Content_assessment)
+
+[Wikipedia Info API](https://en.wikipedia.org/wiki/Wikipedia:Content_assessment)
+
+[Page Info Request Example](https://drive.google.com/file/d/1Z8DqXpHmNUJ3RD7e-OOwx2WYJPIYjUPp/view?usp=sharing)
+
+[ORES Request Example](https://drive.google.com/file/d/1rZdBrtCe9XO4IkDWqm0A2RA-HfZCsqHh/view?usp=sharing)
